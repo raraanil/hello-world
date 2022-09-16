@@ -1,8 +1,18 @@
-# hello-world
+# hello World
+
+
+**Description**
 My first repository on GitHub
 
-#Calculation is 
-x=2
-y=4
-z=x+y
+**Getting Started** 
+* Windows 10
+* GitHub Account
+* Git
+* software needed
+
+**Instalation**
+Download from web 
+
+
+
 
